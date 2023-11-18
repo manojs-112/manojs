@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AdobeUpdater>
+<logFile>C:\Users\manojs\AppData\Local\Adobe\Updater6\aum.log</logFile>
+<logLevel>2</logLevel>
+<DisplayLang></DisplayLang>
+<SilentCheck>1</SilentCheck>
+<ConnectionType>0</ConnectionType>
+<Launch></Launch>
+<IsFirstRun>0</IsFirstRun>
+<InTrayIcon>1</InTrayIcon>
+<LastDateCheck>2023-05-21</LastDateCheck>
+<InBackground>0</InBackground>
+</AdobeUpdater>

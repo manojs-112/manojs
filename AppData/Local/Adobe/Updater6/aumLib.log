@@ -1,0 +1,61 @@
+2023-05-08T03:31:12: >>> Adobe Updater Log Begin >>>
+2023-05-08T03:31:12: logFile: = C:\Users\manojs\AppData\Local\Adobe\Updater6\aumLib.log
+2023-05-08T03:31:12: logLevel: = 2
+2023-05-08T03:31:12: Vista IE Protected Mode:No
+2023-05-08T03:31:12: In AUMDoPluginAction(...)
+2023-05-08T03:31:12: appIdentifierreader9rdr-en_US
+2023-05-08T03:31:12: Do not have admin priv.
+2023-05-08T03:31:12: ForkUpdater.
+2023-05-08T03:31:12: return code = 0(ESD_ERR_OK)
+2023-05-08T03:32:04: <<< Adobe Updater Log End <<<
+
+
+2023-05-08T05:12:49: >>> Adobe Updater Log Begin >>>
+2023-05-08T05:12:49: logFile: = C:\Users\manojs\AppData\Local\Adobe\Updater6\aumLib.log
+2023-05-08T05:12:49: logLevel: = 2
+2023-05-08T05:12:49: Vista IE Protected Mode:No
+2023-05-08T05:12:49: In AUMDoPluginAction(...)
+2023-05-08T05:12:49: appIdentifierreader9rdr-en_US
+2023-05-08T05:12:49: Do not have admin priv.
+2023-05-08T05:12:49: ForkUpdater.
+2023-05-08T05:12:49: return code = 0(ESD_ERR_OK)
+2023-05-08T05:13:01: <<< Adobe Updater Log End <<<
+
+
+2023-05-14T07:08:02: >>> Adobe Updater Log Begin >>>
+2023-05-14T07:08:02: logFile: = C:\Users\manojs\AppData\Local\Adobe\Updater6\aumLib.log
+2023-05-14T07:08:02: logLevel: = 2
+2023-05-14T07:08:02: Vista IE Protected Mode:No
+2023-05-14T07:08:02: In AUMDoPluginAction(...)
+2023-05-14T07:08:02: appIdentifierreader9rdr-en_US
+2023-05-14T07:08:02: Do not have admin priv.
+2023-05-14T07:08:03: ForkUpdater.
+2023-05-14T07:08:03: return code = 0(ESD_ERR_OK)
+2023-05-14T07:08:51: <<< Adobe Updater Log End <<<
+
+
+2023-05-21T06:09:16: >>> Adobe Updater Log Begin >>>
+2023-05-21T06:09:16: logFile: = C:\Users\manojs\AppData\Local\Adobe\Updater6\aumLib.log
+2023-05-21T06:09:16: logLevel: = 2
+2023-05-21T06:09:16: Vista IE Protected Mode:No
+2023-05-21T06:09:16: In AUMDoPluginAction(...)
+2023-05-21T06:09:16: appIdentifierreader9rdr-en_US
+2023-05-21T06:09:16: Do not have admin priv.
+2023-05-21T06:09:16: ForkUpdater.
+2023-05-21T06:09:16: return code = 0(ESD_ERR_OK)
+2023-05-21T06:10:23: In AUMTriggerUpdateCheck(...)
+2023-05-21T06:10:23: appIdentifierreader9rdr-en_US
+2023-05-21T06:10:23: appFolderPathC:\Program Files (x86)\Adobe\Reader 9.0\Reader
+2023-05-21T06:10:23: AUMTriggerType = 1
+2023-05-21T06:10:23: appDisplayNameAdobe Reader 9
+2023-05-21T06:10:23: appDisplayLangen_US
+2023-05-21T06:10:23: bOverrideData= true
+2023-05-21T06:10:23: Do not have admin priv.
+2023-05-21T06:10:23: Trigger Update: AppIdentifier: reader9rdr-en_US
+AppFolder: C:\Program Files (x86)\Adobe\Reader 9.0\Reader
+Update Type: =  Scheduled Update
+2023-05-21T06:10:23: Launching AUM.
+2023-05-21T06:10:23: return code = 0(ESD_ERR_OK)
+2023-05-21T06:23:19: <<< Adobe Updater Log End <<<
+
+

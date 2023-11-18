@@ -1,0 +1,94 @@
+2023-05-08T03:31:13: >>> Adobe Updater Log Begin >>>
+2023-05-08T03:31:13: cmdline option: -logFile = C:\Users\manojs\AppData\Local\Adobe\Updater6\aum.log
+2023-05-08T03:31:13: cmdline option: -logLevel = 2
+2023-05-08T03:31:13: Display Language requested = 
+2023-05-08T03:31:13: Valid AppID added from global xml file = reader9rdr-en_US
+2023-05-08T03:31:13: Could not load adobe_aum2pcd.dll
+2023-05-08T03:31:13: No Startup mode specified.
+2023-05-08T03:31:13: GetAppIDUpdates: getting available update info for AppID: reader9rdr-en_US
+2023-05-08T03:31:14: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/60/win/reader9rdr-en_US.upd
+2023-05-08T03:31:14: GetAppIDUpdates: GetManifestProcessingError = 3
+2023-05-08T03:31:14: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+2023-05-08T03:31:14: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/60/win/AdobeUpdater.upd
+2023-05-08T03:31:14: GetAppIDUpdates: GetManifestProcessingError = 3
+2023-05-08T03:31:15: sLaunchMode is = 
+2023-05-08T03:31:15: No manual/schedule workflow to process next
+2023-05-08T03:31:16: <<< Adobe Updater Log End <<<
+
+
+2023-05-08T05:12:49: >>> Adobe Updater Log Begin >>>
+2023-05-08T05:12:49: cmdline option: -logFile = C:\Users\manojs\AppData\Local\Adobe\Updater6\aum.log
+2023-05-08T05:12:49: cmdline option: -logLevel = 2
+2023-05-08T05:12:49: Display Language requested = en_US
+2023-05-08T05:12:49: Valid AppID added from global xml file = reader9rdr-en_US
+2023-05-08T05:12:49: Could not load adobe_aum2pcd.dll
+2023-05-08T05:12:49: No Startup mode specified.
+2023-05-08T05:12:49: GetAppIDUpdates: getting available update info for AppID: reader9rdr-en_US
+2023-05-08T05:12:50: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/60/win/reader9rdr-en_US.upd
+2023-05-08T05:12:50: GetAppIDUpdates: GetManifestProcessingError = 3
+2023-05-08T05:12:50: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+2023-05-08T05:12:50: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/60/win/AdobeUpdater.upd
+2023-05-08T05:12:50: GetAppIDUpdates: GetManifestProcessingError = 3
+2023-05-08T05:12:51: sLaunchMode is = 
+2023-05-08T05:12:51: No manual/schedule workflow to process next
+2023-05-08T05:12:52: <<< Adobe Updater Log End <<<
+
+
+2023-05-14T07:08:03: >>> Adobe Updater Log Begin >>>
+2023-05-14T07:08:03: cmdline option: -logFile = C:\Users\manojs\AppData\Local\Adobe\Updater6\aum.log
+2023-05-14T07:08:03: cmdline option: -logLevel = 2
+2023-05-14T07:08:03: Display Language requested = en_US
+2023-05-14T07:08:03: Valid AppID added from global xml file = reader9rdr-en_US
+2023-05-14T07:08:03: Could not load adobe_aum2pcd.dll
+2023-05-14T07:08:03: No Startup mode specified.
+2023-05-14T07:08:03: GetAppIDUpdates: getting available update info for AppID: reader9rdr-en_US
+2023-05-14T07:08:04: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/60/win/reader9rdr-en_US.upd
+2023-05-14T07:08:04: GetAppIDUpdates: GetManifestProcessingError = 3
+2023-05-14T07:08:04: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+2023-05-14T07:08:04: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/60/win/AdobeUpdater.upd
+2023-05-14T07:08:04: GetAppIDUpdates: GetManifestProcessingError = 3
+2023-05-14T07:08:05: sLaunchMode is = 
+2023-05-14T07:08:05: No manual/schedule workflow to process next
+2023-05-14T07:08:06: <<< Adobe Updater Log End <<<
+
+
+2023-05-21T06:09:17: >>> Adobe Updater Log Begin >>>
+2023-05-21T06:09:17: cmdline option: -logFile = C:\Users\manojs\AppData\Local\Adobe\Updater6\aum.log
+2023-05-21T06:09:17: cmdline option: -logLevel = 2
+2023-05-21T06:09:17: Display Language requested = en_US
+2023-05-21T06:09:17: Valid AppID added from global xml file = reader9rdr-en_US
+2023-05-21T06:09:17: Could not load adobe_aum2pcd.dll
+2023-05-21T06:09:17: No Startup mode specified.
+2023-05-21T06:09:17: GetAppIDUpdates: getting available update info for AppID: reader9rdr-en_US
+2023-05-21T06:09:17: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/60/win/reader9rdr-en_US.upd
+2023-05-21T06:09:17: GetAppIDUpdates: GetManifestProcessingError = 2
+2023-05-21T06:09:17: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+2023-05-21T06:09:17: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/60/win/AdobeUpdater.upd
+2023-05-21T06:09:17: GetAppIDUpdates: GetManifestProcessingError = 2
+2023-05-21T06:09:19: sLaunchMode is = 
+2023-05-21T06:09:19: No manual/schedule workflow to process next
+2023-05-21T06:09:20: <<< Adobe Updater Log End <<<
+
+
+2023-05-21T06:10:23: >>> Adobe Updater Log Begin >>>
+2023-05-21T06:10:23: cmdline option: -logFile = C:\Users\manojs\AppData\Local\Adobe\Updater6\aum.log
+2023-05-21T06:10:23: cmdline option: -logLevel = 2
+2023-05-21T06:10:23: Display Language requested = en_US
+2023-05-21T06:10:23: Valid AppID added from global xml file = reader9rdr-en_US
+2023-05-21T06:10:23: Could not load adobe_aum2pcd.dll
+2023-05-21T06:10:23: New AUM launched for schedule update...
+2023-05-21T06:10:24: Entering normal workflow...
+2023-05-21T06:10:24: GetAppIDUpdates: getting available update info for AppID: AdobeUpdater
+2023-05-21T06:25:06: GetAppIDUpdates: getting .upd file: http://swupmf.adobe.com/manifest/60/win/AdobeUpdater.upd
+2023-05-21T06:25:06: GetAppIDUpdates: GetManifestProcessingError = 3
+2023-05-21T06:25:08: Result of GetOpenTransaction: = 3
+2023-05-21T06:25:08: sLaunchMode is = 
+2023-05-21T06:25:08: No manual/schedule workflow to process next
+2023-05-21T06:25:08: bDoNormalWF=false
+2023-05-21T06:25:08: bHasPendingMissingComp=false
+2023-05-21T06:25:08: bProcessExpressTrans=true
+2023-05-21T06:25:08: bProcessNormalTrans=false
+2023-05-21T06:25:08: Quitting loop from normal WF, no other workflows to process
+2023-05-21T06:25:13: <<< Adobe Updater Log End <<<
+
+
